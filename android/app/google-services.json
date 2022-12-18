@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "385570220918",
+    "firebase_url": "https://flight-on-app-default-rtdb.firebaseio.com",
+    "project_id": "flight-on-app",
+    "storage_bucket": "flight-on-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385570220918:android:1d1827de8080b3a7596857",
+        "android_client_info": {
+          "package_name": "at.refan.flighton_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385570220918-b0h0slcvisc2hv1r53q6n0uucbgpdabk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWFBotGdr9uh0Y2Krg70PUute7KHRjYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385570220918-b0h0slcvisc2hv1r53q6n0uucbgpdabk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385570220918-iagmeid37nho7mqcele909moejqk0q49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385570220918:android:d19e82161d38902f596857",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385570220918-b0h0slcvisc2hv1r53q6n0uucbgpdabk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWFBotGdr9uh0Y2Krg70PUute7KHRjYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385570220918-b0h0slcvisc2hv1r53q6n0uucbgpdabk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385570220918-iagmeid37nho7mqcele909moejqk0q49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
